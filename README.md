@@ -7,4 +7,4 @@ Many of the Center projects and analyses require similar data management steps (
 
 When linking repositories, please make sure to include a readme file describing the research project, data sources (with links if data publicly available), and methods used for the analysis. Ideally, if the work is published, it'd be great to also include the link to the publication.
 
-If you have any questions, please do not hesitate to e-mail the Study Design and Data Science Facility Core Co-Directors, Pam (prf1@cumc.columbia.edu) and Marianthi (mk3961@cumc.columbia.edu).
+If you have any questions, please do not hesitate to e-mail the Study Design and Data Science Facility Core Co-Directors, Pam (prf1@cumc.columbia.edu) and Sen (sp3449@cumc.columbia.edu).
